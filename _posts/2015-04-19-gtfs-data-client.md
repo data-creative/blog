@@ -9,7 +9,7 @@ icon_class: train
 technologies: ruby rails relational-database
 ---
 
-![A screenshot of a web application depicting information tables and a map.](/assets/images/gtfs-data-client.png "App screenshot")
+![A screenshot of a web application depicting information tables and a map.](/blog/assets/images/gtfs-data-client.png "App screenshot")
 
 An open source web application that integrates
  [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/)

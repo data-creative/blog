@@ -9,7 +9,7 @@ icon_class: tree
 technologies: html css javascript d3.js
 ---
 
-![A bar chart depicting the US Postal Service as having the highest greenhouse gas emissions out of all federal agencies.](/assets/images/us-government-greenhouse-gas-emissions-by-agency.png "US Government Greenhouse Gas Emissions by Agency")
+![A bar chart depicting the US Postal Service as having the highest greenhouse gas emissions out of all federal agencies.](/blog/assets/images/us-government-greenhouse-gas-emissions-by-agency.png "US Government Greenhouse Gas Emissions by Agency")
 
 US Government
  [vehicle emissions data](https://github.com/data-creative/us-gov-greenhouse-gas-emissions/tree/master/data)

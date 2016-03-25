@@ -9,7 +9,7 @@ icon_class: university
 technologies: html css javascript rails json d3.js
 ---
 
-![A graph plotting the distribution of LSAT scores.](/assets/images/lsat-curve.png "LSAT Curve Graph")
+![A graph plotting the distribution of LSAT scores.](/blog/assets/images/lsat-curve.png "LSAT Curve Graph")
 
 Law School Admissions Test (LSAT) score distributions,
  based on a

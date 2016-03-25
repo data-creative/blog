@@ -9,7 +9,7 @@ icon_class: dollar
 technologies: html css javascript mapbox.js d3.js
 ---
 
-![A choropleth map of the United States.](/assets/images/income-and-affordability-map.png "Income and Affordability Map")
+![A choropleth map of the United States.](/blog/assets/images/income-and-affordability-map.png "Income and Affordability Map")
 
 Income and [affordability](http://en.wiktionary.org/wiki/affordability)
  [data](https://gist.github.com/s2t2/cd45dfd8007fcf83fef7#affordability-data)

@@ -9,7 +9,7 @@ icon_class: frown-o
 technologies: html css javascript d3.js mapbox.js
 ---
 
-![a choropleth map showing mental health indicators by state](/assets/images/us-chronic-disease-indicators.png "US Chronic Disease Indicators")
+![a choropleth map showing mental health indicators by state](/blog/assets/images/us-chronic-disease-indicators.png "US Chronic Disease Indicators")
 
 A visualization of mental-health-related [data](http://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi) from from data.gov, created during a [Mental Health Hackathon](http://washington.impacthub.net/event/white-house-ostp-mentalhealthhackathon/) organized by the White House's Office of Science and Technology Policy.
 
